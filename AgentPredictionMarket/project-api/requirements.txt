@@ -1,0 +1,17 @@
+# 核心依赖
+numpy
+pandas
+scikit-learn
+requests
+Flask
+web3
+
+# 可视化
+matplotlib
+seaborn
+
+# 开发工具
+pytest
+black
+isort
+flake8
